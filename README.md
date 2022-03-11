@@ -52,6 +52,4 @@
 
 ## Alumni
 
-Hola, this is a test
-
 
